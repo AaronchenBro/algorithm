@@ -13,6 +13,8 @@
 // Constructor
 SortTool::SortTool() {}
 
+//Fuck!
+
 // Insertsion sort method
 void SortTool::InsertionSort(vector<int>& data) {
     // Function : Insertion sort
